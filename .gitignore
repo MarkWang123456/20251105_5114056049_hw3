@@ -17,9 +17,7 @@ Thumbs.db
 models/
 metrics/
 
-# Data (avoid committing datasets/uploads)
-data/
-dataset/
+# Data (keep uploads ignored; allow committing small sample datasets)
 uploads/
 
 # Streamlit
